@@ -9,3 +9,7 @@ A list of Artificial-General-Inteligence related resources.
 * [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) - Presented by OpenAI.
 * [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) - 
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) - 
+
+
+### Unsorted
+* [The Superintelligent Will: Motivation and Instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf) - 
