@@ -10,6 +10,9 @@ A list of Artificial-General-Inteligence related resources.
 * [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) - 
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) - 
 
+### RL  
+* [Introduction of Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RL%20%28v4%29.pdf) -     
+
 
 ### Unsorted
 * [The Superintelligent Will: Motivation and Instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf) - 
