@@ -22,5 +22,5 @@ A list of Artificial-General-Inteligence related resources.
 ### Unsorted
 * [The Superintelligent Will: Motivation and Instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf) - 
 * [Hierarchical compositional feature learning](https://arxiv.org/abs/1611.02252) - by Vicarious . 
-* [A backward pass through a CNN using a generative model of its activations] - by Vicarious . 
+* [A backward pass through a CNN using a generative model of its activations](https://arxiv.org/abs/1611.02767) - by Vicarious . 
 
