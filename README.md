@@ -3,6 +3,8 @@ A list of Artificial-General-Inteligence related resources.
 
 ### AGI
 * [MIT lessons](https://agi.mit.edu/) - Artificial-General-Inteligence lessons of MIT.
+* [openCog](https://github.com/opencog/) - An org whose aim is to create an open source framework for AGI.
+* [Vicarious Company](https://www.vicarious.com/research/) - A company which is developing a AGI for robots.
 
 ### NLP
 * [Stanford CS224n](http://web.stanford.edu/class/cs224n/index.html) - Stanford NLP lessons
@@ -19,3 +21,6 @@ A list of Artificial-General-Inteligence related resources.
 
 ### Unsorted
 * [The Superintelligent Will: Motivation and Instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf) - 
+* [Hierarchical compositional feature learning](https://arxiv.org/abs/1611.02252) - by Vicarious . 
+* [A backward pass through a CNN using a generative model of its activations] - by Vicarious . 
+
