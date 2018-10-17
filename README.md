@@ -10,7 +10,8 @@ A list of Artificial-General-Inteligence related resources.
 * [Stanford CS224n](http://web.stanford.edu/class/cs224n/index.html) - Stanford NLP lessons
 * [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) - Presented by OpenAI.
 * [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) - 
-* [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) - 
+* [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) -
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) - [here](https://github.com/codertimo/BERT-pytorch) is an implement for this.
 
 ### Reinforcement Learning  
 * [Introduction of Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RL%20%28v4%29.pdf) -     
