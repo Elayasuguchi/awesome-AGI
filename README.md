@@ -7,6 +7,7 @@ A list of Artificial-General-Inteligence related resources.
 * [Vicarious Company](https://www.vicarious.com/research/) - A company which is developing a AGI for robots.
 
 ### NLP
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3) - 
 * [Stanford CS224n](http://web.stanford.edu/class/cs224n/index.html) - Stanford NLP lessons
 * [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) - Presented by OpenAI.
 * [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) - 
