@@ -24,4 +24,4 @@ A list of Artificial-General-Inteligence related resources.
 * [The Superintelligent Will: Motivation and Instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf) - 
 * [Hierarchical compositional feature learning](https://arxiv.org/abs/1611.02252) - by Vicarious . 
 * [A backward pass through a CNN using a generative model of its activations](https://arxiv.org/abs/1611.02767) - by Vicarious . 
-
+* [Criteria for consciousness in humans and other mammals](https://www.ncbi.nlm.nih.gov/pubmed/15766894?dopt=Citation) - Definition of consciousness.  
