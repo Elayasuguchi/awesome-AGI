@@ -6,6 +6,7 @@ A list of Artificial-General-Inteligence related resources.
 * [openCog](https://github.com/opencog/) - An org whose aim is to create an open source framework for AGI.
 * [Vicarious Company](https://www.vicarious.com/research/) - A company which is developing a AGI for robots.
 * [Artificial Life: Frog](https://gitee.com/drinkjava2/frog/tree/master) - A test project for creating artificial life
+* [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) - GPT-4
 
 ### NLP
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3) - 
